@@ -19,19 +19,19 @@ O objetivo deste projeto é criar uma documentação completa da estrutura do si
 
 O repositório contém os seguintes arquivos e diretórios:
 
-/imagens 
-├── diagrama-de-caso-de-uso.png 
-├── diagrama-de-classes.png 
-├── diagrama-de-pacotes.png 
-├── diagrama-de-componentes.png 
-└── diagrama-de-implantacao.png
+/imagens                    
+├── diagrama-de-caso-de-uso.png           
+├── diagrama-de-classes.png        
+├── diagrama-de-pacotes.png         
+├── diagrama-de-componentes.png         
+└── diagrama-de-implantacao.png             
 
-/modelagens 
-├──diagrama-de-caso-de-uso.drawio 
-├── diagrama-de-classes.drawio 
-├── diagrama-de-pacotes.drawio 
-├── diagrama-de-componentes.drawio 
-└── diagrama-de-implantacao.drawio
+/modelagens        
+├──diagrama-de-caso-de-uso.drawio        
+├── diagrama-de-classes.drawio           
+├── diagrama-de-pacotes.drawio            
+├── diagrama-de-componentes.drawio           
+└── diagrama-de-implantacao.drawio                 
 
 ## Instruções para Execução
 
@@ -61,6 +61,8 @@ Como **organizador da competição**, desejo **registrar os resultados dos atlet
 ### Diagrama de Classes e de Pacotes
 
 <img width="500px" height="500px" src="imagens/diagrama-de-classes.png"/>
+
+<img width="500px" height="500px" src="imagens/diagrama-de-pacotes.png"/>
 
 ### Diagrama de Componentes
 

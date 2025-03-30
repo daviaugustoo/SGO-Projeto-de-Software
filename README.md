@@ -33,10 +33,6 @@ O repositório contém os seguintes arquivos e diretórios:
 ├── diagrama-de-componentes.drawio           
 └── diagrama-de-implantacao.drawio                 
 
-## Instruções para Execução
-
-Este repositório contém todos os diagramas UML necessários para o desenvolvimento do sistema de gestão de competições. Os diagramas estão disponíveis em formatos de imagem (PNG) e nos formatos nativos de modelagem (Draw.io ou Astah).
-
 ## Histórias de Usuário
 
 ### US01 - Cadastro de Competição
